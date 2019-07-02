@@ -9,5 +9,7 @@ class Dog
     self.all.class << self 
   end 
   
-  
+  self.all 
+    @@all
+  end 
 end 
