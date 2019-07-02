@@ -8,4 +8,6 @@ class Dog
     self.age = age 
     self.all.class << self 
   end 
+  
+  
 end 
