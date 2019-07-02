@@ -6,4 +6,5 @@ class Dog
     self.name = name 
     self.breed = breed 
     self.age = age 
+  end 
 end 
